@@ -1,0 +1,9 @@
+.phonebook_wrapper {
+  max-width: 550px;
+  margin: 0 auto;
+}
+.phonebook_title{
+    color:rgb(145, 22, 79);
+    font-weight: 800;
+    text-decoration: underline ;
+}
